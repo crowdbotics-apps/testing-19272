@@ -6,7 +6,6 @@ export const installed_blueprints = [
 { name: 'Settings87367', human_name: 'Settings', access_route: 'Settings87367'},
 { name: 'Settings87359', human_name: 'Settings', access_route: 'Settings87359'},
 { name: 'UserProfile87357', human_name: 'User Profile', access_route: 'UserProfile87357'},
-{ name: 'SignIn1186589', human_name: 'Sign In 1 1', access_route: 'SignIn1186589'},
 
   // you can add more installed blueprints here
   // access route is the route nate given to navigator
